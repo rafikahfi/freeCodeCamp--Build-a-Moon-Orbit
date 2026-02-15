@@ -1,0 +1,1 @@
+This is only a result of my practice, and I do not own the copyright to this design. This exercise is titled “Build a Moon Orbit” in CSS Animations. Thanks to https://www.freecodecamp.org/. All rights reserved 2026
